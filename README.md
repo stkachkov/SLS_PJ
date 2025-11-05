@@ -32,12 +32,12 @@
     ```bash
     mvn clean package
     ```
-    Это создаст файл `sls-pj-1.0-SNAPSHOT.jar` в папке `target`.
+    Это создаст файл `shortener.jar` в папке `target`.
 
 2.  **Запуск приложения**
     Выполните следующую команду для запуска:
     ```bash
-    java -jar target/sls-pj-1.0-SNAPSHOT.jar
+    java -jar target/shortener.jar
     ```
 
 ## Тестирование
